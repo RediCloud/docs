@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Basic concepts and commands for using Git"
+    "description": "Basic command api usage",
   }
 }

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Command argument suggestion
+# Argument suggestion
 
 With SuggestionsProvider you can suggest a list of arguments for a command.
 The Dustrean api provides a few suggestions providers for you to use.

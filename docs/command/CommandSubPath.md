@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Command sub paths
+# Sub paths
 
 This page covers the `@CommandSubPath` annotation.
 
