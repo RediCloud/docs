@@ -20,7 +20,7 @@ class UUIDParser : IStringTypeParser<UUID> {
 
 ## How to use
 
-To use your custom TypeParser, you need to register it it the StringParser object.
+To use your custom TypeParser, you need to register it the StringParser object.
 
 ```kotlin
 StringParser.customTypeParsers.add(UUIDParser())

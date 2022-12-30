@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Introduction
 
 The command api is cross-platform annotation based api that allows you to create commands.
 It currently supports the following platforms:
