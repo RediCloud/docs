@@ -13,6 +13,8 @@ The following types can currently be translated:
 - [books](https://docs.dustrean.net/docs/language/books)
 - [titles](https://docs.dustrean.net/docs/language/titles)
 - [bossbars](https://docs.dustrean.net/docs/language/bossbars)
+- [items](https://docs.dustrean.net/docs/language/items)
+- [scoreboards](https://docs.dustrean.net/docs/language/scoreboards)
 
 ## Adventure API
 
