@@ -5,6 +5,7 @@ sidebar_position: 1
 # UUID Fetcher
 
 The UUID fetcher is a simple fetcher that fetches the name of a player from the UUID or the UUID from the name.
+The fetcher don´t fetch the texture url directly from the Mojang API, it uses the [Minetools api](https://api.minetools.eu).
 
 ## Name from their UUID
 
